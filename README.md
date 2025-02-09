@@ -5,8 +5,8 @@ This is a bit of a small pomodoro project for practise and for usefulness
 ## Overview
 
 ### Tech Stack (so far)
-**Front-End**: HTML, CSS, JavaScript
-**Back-End**: JavaScript, Express.js
+* **Front-End**: HTML, CSS, JavaScript
+* **Back-End**: JavaScript, Express.js
 
 ### Functionality
 
