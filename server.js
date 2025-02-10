@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app = express();
-const sessionsJSON = require('./database/sessions.json');
+const db = require('./database/db');
 
 const PORT = process.env.PORT || 3000;
 
